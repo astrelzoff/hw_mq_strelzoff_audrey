@@ -1,0 +1,24 @@
+body {
+    background-color: #a4aaa2;
+}
+
+@media all and (min-width: 675px) {
+
+    body {
+        background-color: #7d857a;
+    }
+}
+
+@media all and (min-width: 999px) {
+
+    body {
+        background-color: #575d56;
+    }
+}
+
+@media all and (min-width: 1280px) {
+
+    body {
+        background-color: #323531;
+    }
+}
